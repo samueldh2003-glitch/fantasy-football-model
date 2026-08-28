@@ -1,0 +1,32 @@
+{
+  "status": "ready",
+  "modelVersion": "0.3.2",
+  "generatedAt": "2026-08-28T16:56:17Z",
+  "players": 610,
+  "validation": [
+    {
+      "position": "QB",
+      "holdout_season": 2024,
+      "n": 36,
+      "mae_ppg": 2.61
+    },
+    {
+      "position": "RB",
+      "holdout_season": 2024,
+      "n": 81,
+      "mae_ppg": 2.57
+    },
+    {
+      "position": "WR",
+      "holdout_season": 2024,
+      "n": 148,
+      "mae_ppg": 2.327
+    },
+    {
+      "position": "TE",
+      "holdout_season": 2024,
+      "n": 86,
+      "mae_ppg": 1.946
+    }
+  ]
+}
